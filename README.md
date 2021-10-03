@@ -1,5 +1,6 @@
 # Rentbuddy
-AUST-->CSE(3.2)-->ISD-->MVC Project
+AUST-->CSE(3.2)-->ISD Lab-->MVC Project
+
 Project Goals: 
 • Creating an online platform to rent vehicles on tourist zone.
 • Reducing transportation hassle for tourist.
