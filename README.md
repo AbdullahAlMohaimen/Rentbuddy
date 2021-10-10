@@ -1,5 +1,5 @@
 # Rentbuddy
-AUST-->CSE(3.2)-->ISD Lab-->MVC Project
+AUST CSE(3.2)-(Information System Design Lab(CSE3224))==>ASP.NET(MVC) PROJECT
 
 Project Goals: 
 • Creating an online platform to rent vehicles on tourist zone.
